@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-adal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Konstantin Kitmanov <me@kitmanov.name>",
+  "license": "MIT",
+  "dependencies": {
+    "vue-adal": "^1.3.1"
+  }
+}
